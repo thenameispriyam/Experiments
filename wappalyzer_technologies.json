@@ -1,4 +1,5 @@
 {
+  "apps": [{
     "A-Frame": {
       "cats": [
         25
@@ -61471,4 +61472,5 @@
             "saas": true,
             "website": "https://www.zuppler.com"
           }
-        }
+  }]
+}
